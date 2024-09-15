@@ -4,9 +4,9 @@
 
 Welcome to **EcoTrack**! This project aims to help individuals and organizations track their environmental impact and make more sustainable choices. **EcoTrack** provides a comprehensive platform for monitoring various aspects of environmental impact, including carbon footprint, energy usage, and waste management.
 
-- **Deployed Site**: [Visit EcoTrack](http://ecotrack.example.com)
+
 - **Final Project Blog Article**: [Read our final blog post](http://example.com/blog-post)
-- **Author(s) LinkedIn**: [Jane Doe's LinkedIn Profile](https://linkedin.com/in/janedoe)
+
 
 ## Installation
 
